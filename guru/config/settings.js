@@ -11,8 +11,8 @@ const bool = (key, def = true) => {
 const config = {
     // ── Bot Identity ──────────────────────────────────
     BOT_NAME:       process.env.BOT_NAME     || 'BLACK PANTHER MD',
-    OWNER_NAME:     process.env.OWNER_NAME   || 'GuruTech',
-    OWNER_NUMBER:   process.env.OWNER_NUMBER || '254105521300',
+    OWNER_NAME:     process.env.OWNER_NAME   || 'Corex',
+    OWNER_NUMBER:   process.env.OWNER_NUMBER || '2347068058321',
     BOT_PREFIX:     process.env.BOT_PREFIX   || '.',
     BOT_VERSION:    '1.0.0',
     PACK_NAME:      process.env.BOT_NAME     || 'BLACK PANTHER MD',
